@@ -6,6 +6,10 @@ A collection of COVID-19 related rumors on Snopes.
 
 | title                                                                                                  | rating              | link                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------------- | ---------------------------------------------------------------------- |
+| Is It Dangerous to Wear a COVID-19 Protective Mask For Too Long?                                       | Mostly False        | https://www.snopes.com/fact-check/masks-dangerous-health/              |
+| Did ‘The Simpsons’ Predict Events of 2020 Back in 1993?                                                | Mixture             | https://www.snopes.com/fact-check/simpsons-predicts-2020-in-1993/      |
+| Did Tanzania’s President Expose Faulty COVID-19 Testing by Submitting Non-Human Samples?               | Unproven            | https://www.snopes.com/fact-check/tanzania-president-covid-tests/      |
+| Did Costco Post This Sarcastic Reply to a Customer on Facebook?                                        | False               | https://www.snopes.com/fact-check/costco-response-facebook/            |
 | Is This Microsoft Logo/Coronavirus Crop Circle Real?                                                   | False               | https://www.snopes.com/fact-check/microsoft-crop-circle/               |
 | Did ‘Live and Let Die’ Play as Trump Toured Factory Without COVID-19 Mask?                             | True                | https://www.snopes.com/fact-check/trump-live-let-die-song-mask/        |
 | Did Trump Say COVID-19 Deaths Wouldn’t Hurt Anyone as Much as Himself?                                 | False               | https://www.snopes.com/fact-check/trump-covid-19-deaths-hurt/          |
@@ -165,7 +169,6 @@ A collection of COVID-19 related rumors on Snopes.
 | Can Popping Bubble Wrap from China Expose You to Coronavirus?                                          | Labeled Satire      | https://www.snopes.com/fact-check/china-bubble-wrap-virus/             |
 | Was Eminem Diagnosed with Coronavirus?                                                                 | False               | https://www.snopes.com/fact-check/eminem-coronavirus/                  |
 | Is China Seeking Approval to Kill 20,000 Coronavirus Patients?                                         | False               | https://www.snopes.com/fact-check/china-kill-coronavirus-patients/     |
-
 
 ## Contributor
 [Chen Ling](mailto:lingchen@udel.edu)   
