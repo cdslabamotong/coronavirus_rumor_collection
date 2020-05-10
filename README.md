@@ -2,9 +2,9 @@
 
 [![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
 
-This project is set fo maintaining a list of targeted conferences.
+A collection of COVID-19 related rumors on Snopes.
 
-[See the website for the Targeted Conference List](https://cdslabamotong.github.io/conference-list/).
+[See the website for the Rumor List](https://cdslabamotong.github.io/coronavirus_rumor_collection/).
 
 ## Contributor
 [Chen Ling](mailto:lingchen@udel.edu)   
