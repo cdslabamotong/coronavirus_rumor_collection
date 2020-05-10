@@ -169,6 +169,13 @@ A collection of COVID-19 related rumors on Snopes.
 | Can Popping Bubble Wrap from China Expose You to Coronavirus?                                          | Labeled Satire      | https://www.snopes.com/fact-check/china-bubble-wrap-virus/             |
 | Was Eminem Diagnosed with Coronavirus?                                                                 | False               | https://www.snopes.com/fact-check/eminem-coronavirus/                  |
 | Is China Seeking Approval to Kill 20,000 Coronavirus Patients?                                         | False               | https://www.snopes.com/fact-check/china-kill-coronavirus-patients/     |
+| Did ‘The Simpsons’ Predict the Coronavirus Outbreak?                                                   | False               | https://www.snopes.com/fact-check/simpsons-predict-coronavirus/        |
+| Was This ‘Health Bulletin’ an Accurate Coronavirus Warning?                                            | False               | https://www.snopes.com/fact-check/nwllab-moh-bulletin-coronavirus/     |
+| Did Health Experts ‘Predict’ New Coronavirus Could Kill 65 Million People?                             | False               | https://www.snopes.com/fact-check/coronavirus-65-million-people/       |
+| Are People Collapsing in the Street from Coronavirus?                                                  | Unproven            | https://www.snopes.com/fact-check/people-collapsing-coronavirus/       |
+| Did a Coronavirus Bulletin Warn Against Unprotected Sex with Farm Animals?                             | False               | https://www.snopes.com/fact-check/coronavirus-bulletin-farm-animals/   |
+
+
 
 ## Contributor
 [Chen Ling](mailto:lingchen@udel.edu)   
